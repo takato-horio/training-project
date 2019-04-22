@@ -1,0 +1,7 @@
+# hello-github
+GitHubの機能を試すためのリポジトリです。
+<<<<<<< HEAD
+コンフリクト確認
+=======
+コミットユーザーSourceTreeでどうなるか確認
+>>>>>>> 9ceacff932d09ca94663d0a458b302ba44d2051c
